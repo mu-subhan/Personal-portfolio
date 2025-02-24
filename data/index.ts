@@ -80,11 +80,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "Netflix Clone",
+      des: "Create a Netflic clone using React, Next.js, and Tailwind CSS, with a focus on performance and responsiveness.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "/ui.yoom.com",
+      link: "https://react-movie-sage.vercel.app/",
     },
     {
       id: 3,
