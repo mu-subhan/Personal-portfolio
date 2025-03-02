@@ -81,7 +81,7 @@ export const navItems = [
     {
       id: 2,
       title: "Netflix Clone",
-      des: "Create a Netflic clone using React, Next.js, and Tailwind CSS, with a focus on performance and responsiveness.",
+      des: "Create a Netflix clone using React, Next.js, and Tailwind CSS, with a focus on performance and responsiveness.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://react-movie-sage.vercel.app/",
@@ -89,7 +89,7 @@ export const navItems = [
     {
       id: 3,
       title: "SaaS Landing Page -Xora Application",
-      des: "",
+      des: "A landing page of Xora Application, a SaaS product for managing your team and projects.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
       link: "",
