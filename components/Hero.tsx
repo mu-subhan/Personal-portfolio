@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hey! I am Muhammad Subhan, a Full Stack Developer. Focusing on Frontend Development with React.js and Next.js for modern web appsgit .
+            Hey👋 I am Muhammad Subhan, a Full Stack Developer. Focusing on Frontend Development with React.js and Next.js for modern web appsgit .
           </p>
 
           <a href="#about">
